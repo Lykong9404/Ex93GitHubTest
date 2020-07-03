@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var a:Int = 10
-        var b:Double= 3.14
+        var b:Double= 10.5
 
         //주석
     }
